@@ -1,6 +1,4 @@
 {{ config(materialized='table') }}
-
-
     select
     id ,
     first_name,
